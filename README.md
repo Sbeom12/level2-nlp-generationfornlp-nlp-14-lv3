@@ -51,5 +51,3 @@ python main.py
 - 모든 학습 결과는 experiments 디렉토리 아래에 학습을 실행한 일시로 생성되는 디렉토리에 저장됩니다.
 - 프로젝트 루트의 args.json을 통해 학습 인자를 바꿀 수 있습니다.
 
-
-### Arguments
